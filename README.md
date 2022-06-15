@@ -2,7 +2,7 @@
 
 Sistem Inventory Barang
 
-Kelompok D3 :
+Kelompok D2 :
 
 
 Luh Gede Tresna Dewi	2008561004
