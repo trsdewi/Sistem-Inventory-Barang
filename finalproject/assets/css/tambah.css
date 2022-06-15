@@ -1,0 +1,17 @@
+input[type="submit"]{
+    position: fixed;
+    top: 15.8%;
+    right: 29%;
+    border-radius: 0 25px 25px 0;
+    width: 100px;
+    height: 45px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #ffc107;
+    color: #fff;
+}
+
+input[type="submit"]:hover{
+    background: #ff5722;
+}
