@@ -1,0 +1,65 @@
+.tombol{
+       float: initial;
+       /*ubah warna background*/
+        background-color: #424eee;
+       /*ubah warna teks*/
+        color: white;
+       /*hilangkan garis bawah pada teks*/
+        text-decoration: none;
+       /*teks rata tengah*/
+        text-align: center;
+       /*atur jarak margin/luar*/
+        margin: 10px 10px;
+       /*atur jarak padding/dalam*/
+        padding: 10px 15px;
+       /*ubah tampilan kursor*/
+        cursor: pointer;
+        /*membuat efek bayangan*/
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        margin-left: 74%;
+        margin-right:26% ;
+      }
+
+.tombol1{
+  float: initial;
+  /*ubah warna background*/
+    background-color: #424eee;
+  /*ubah warna teks*/
+    color: white;
+  /*hilangkan garis bawah pada teks*/
+    text-decoration: none;
+  /*teks rata tengah*/
+    text-align: center;
+  /*atur jarak margin/luar*/
+    margin: 10px 10px;
+  /*atur jarak padding/dalam*/
+    padding: 10px 15px;
+  /*ubah tampilan kursor*/
+    cursor: pointer;
+    /*membuat efek bayangan*/
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    margin-left: 66.8%;
+    margin-right:33.2% ;
+  }
+
+  .tombol2{
+    float: initial;
+    /*ubah warna background*/
+      background-color: #424eee;
+    /*ubah warna teks*/
+      color: white;
+    /*hilangkan garis bawah pada teks*/
+      text-decoration: none;
+    /*teks rata tengah*/
+      text-align: center;
+    /*atur jarak margin/luar*/
+      margin: 10px 10px;
+    /*atur jarak padding/dalam*/
+      padding: 10px 15px;
+    /*ubah tampilan kursor*/
+      cursor: pointer;
+      /*membuat efek bayangan*/
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      margin-left: 82%;
+      margin-right:18% ;
+    }
