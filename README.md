@@ -1,5 +1,6 @@
-# Sistem-Inventory-Barang
-#Final Project Praktikum Basis Data
+# Final Project Praktikum Basis Data
+
+Sistem Inventory Barang
 
 Kelompok D3 :
 
